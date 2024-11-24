@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD6EFD-E998-4160-A823-3C5D6AD7E4BB}|UnitTesting\\UnitTesting.csproj|c:\\users\\v\u00E1li emiel\\documents\\school\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD6EFD-E998-4160-A823-3C5D6AD7E4BB}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531AA41E-5AA0-4D18-BAB3-80BEFB801E7F}|langlopende_taak\\langlopende_taak.csproj|c:\\users\\v\u00E1li emiel\\documents\\school\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531AA41E-5AA0-4D18-BAB3-80BEFB801E7F}|langlopende_taak\\langlopende_taak.csproj|solutionrelative:langlopende_taak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\UnitTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\UnitTesting\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTesting\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:23:47.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\Program.cs",
+              "RelativeDocumentMoniker": "langlopende_taak\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\Program.cs",
+              "RelativeToolTip": "langlopende_taak\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:22:49.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
