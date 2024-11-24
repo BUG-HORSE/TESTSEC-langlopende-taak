@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95AD6EFD-E998-4160-A823-3C5D6AD7E4BB}|UnitTesting\\UnitTesting.csproj|c:\\users\\v\u00E1li emiel\\documents\\school\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95AD6EFD-E998-4160-A823-3C5D6AD7E4BB}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{531AA41E-5AA0-4D18-BAB3-80BEFB801E7F}|langlopende_taak\\langlopende_taak.csproj|c:\\users\\v\u00E1li emiel\\documents\\school\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\pokemondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531AA41E-5AA0-4D18-BAB3-80BEFB801E7F}|langlopende_taak\\langlopende_taak.csproj|solutionrelative:langlopende_taak\\pokemondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531AA41E-5AA0-4D18-BAB3-80BEFB801E7F}|langlopende_taak\\langlopende_taak.csproj|c:\\users\\v\u00E1li emiel\\documents\\school\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\ipokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531AA41E-5AA0-4D18-BAB3-80BEFB801E7F}|langlopende_taak\\langlopende_taak.csproj|solutionrelative:langlopende_taak\\ipokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{531AA41E-5AA0-4D18-BAB3-80BEFB801E7F}|langlopende_taak\\langlopende_taak.csproj|c:\\users\\v\u00E1li emiel\\documents\\school\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{531AA41E-5AA0-4D18-BAB3-80BEFB801E7F}|langlopende_taak\\langlopende_taak.csproj|solutionrelative:langlopende_taak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD6EFD-E998-4160-A823-3C5D6AD7E4BB}|UnitTesting\\UnitTesting.csproj|c:\\users\\v\u00E1li emiel\\documents\\school\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD6EFD-E998-4160-A823-3C5D6AD7E4BB}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PokemonDb.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\PokemonDb.cs",
+              "RelativeDocumentMoniker": "langlopende_taak\\PokemonDb.cs",
+              "ToolTip": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\PokemonDb.cs",
+              "RelativeToolTip": "langlopende_taak\\PokemonDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:18:48.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\IPokemon.cs",
+              "RelativeDocumentMoniker": "langlopende_taak\\IPokemon.cs",
+              "ToolTip": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\IPokemon.cs",
+              "RelativeToolTip": "langlopende_taak\\IPokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:18:05.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\UnitTesting\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTesting\\UnitTest1.cs",
@@ -35,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\V\u00E1li Emiel\\Documents\\School\\2024-2025\\testsec\\langlopende_taak\\langlopende_taak\\langlopende_taak\\Program.cs",
               "RelativeDocumentMoniker": "langlopende_taak\\Program.cs",
