@@ -1,0 +1,15 @@
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\bin\Debug\net8.0\langlopende_taak.exe
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\bin\Debug\net8.0\langlopende_taak.deps.json
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\bin\Debug\net8.0\langlopende_taak.runtimeconfig.json
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\bin\Debug\net8.0\langlopende_taak.dll
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\bin\Debug\net8.0\langlopende_taak.pdb
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\obj\Debug\net8.0\langlopende_taak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\obj\Debug\net8.0\langlopende_taak.AssemblyInfoInputs.cache
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\obj\Debug\net8.0\langlopende_taak.AssemblyInfo.cs
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\obj\Debug\net8.0\langlopende_taak.csproj.CoreCompileInputs.cache
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\obj\Debug\net8.0\langlopende_taak.sourcelink.json
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\obj\Debug\net8.0\langlopende_taak.dll
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\obj\Debug\net8.0\refint\langlopende_taak.dll
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\obj\Debug\net8.0\langlopende_taak.pdb
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\obj\Debug\net8.0\langlopende_taak.genruntimeconfig.cache
+C:\Users\Váli Emiel\Documents\School\2024-2025\testsec\langlopende_taak\langlopende_taak\langlopende_taak\obj\Debug\net8.0\ref\langlopende_taak.dll
